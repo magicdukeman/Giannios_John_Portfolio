@@ -1,0 +1,5 @@
+/Users/duke/Projects/WhileLoops/WhileLoops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.exe.mdb
+/Users/duke/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.exe
+/Users/duke/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.exe
+/Users/duke/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.exe.mdb

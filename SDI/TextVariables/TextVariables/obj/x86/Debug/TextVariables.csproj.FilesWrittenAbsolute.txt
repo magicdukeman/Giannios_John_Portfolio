@@ -1,0 +1,5 @@
+/Users/duke/Projects/TextVariables/TextVariables/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/TextVariables/TextVariables/bin/Debug/TextVariables.exe.mdb
+/Users/duke/Projects/TextVariables/TextVariables/bin/Debug/TextVariables.exe
+/Users/duke/Projects/TextVariables/TextVariables/obj/x86/Debug/TextVariables.exe
+/Users/duke/Projects/TextVariables/TextVariables/obj/x86/Debug/TextVariables.exe.mdb

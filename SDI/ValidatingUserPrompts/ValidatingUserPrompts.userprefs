@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ValidatingUserPrompts/ValidatingUserPrompts.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidatingUserPrompts/Program.cs">
+    <Files>
+      <File FileName="ValidatingUserPrompts/Program.cs" Line="56" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
