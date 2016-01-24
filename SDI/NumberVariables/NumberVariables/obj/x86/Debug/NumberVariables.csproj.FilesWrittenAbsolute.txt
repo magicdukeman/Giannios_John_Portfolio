@@ -1,0 +1,5 @@
+/Users/duke/Projects/NumberVariables/NumberVariables/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/NumberVariables/NumberVariables/bin/Debug/NumberVariables.exe.mdb
+/Users/duke/Projects/NumberVariables/NumberVariables/bin/Debug/NumberVariables.exe
+/Users/duke/Projects/NumberVariables/NumberVariables/obj/x86/Debug/NumberVariables.exe
+/Users/duke/Projects/NumberVariables/NumberVariables/obj/x86/Debug/NumberVariables.exe.mdb

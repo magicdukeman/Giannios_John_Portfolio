@@ -1,0 +1,5 @@
+/Users/duke/Projects/NestingConditionals/NestingConditionals/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/NestingConditionals/NestingConditionals/bin/Debug/NestingConditionals.exe.mdb
+/Users/duke/Projects/NestingConditionals/NestingConditionals/bin/Debug/NestingConditionals.exe
+/Users/duke/Projects/NestingConditionals/NestingConditionals/obj/x86/Debug/NestingConditionals.exe
+/Users/duke/Projects/NestingConditionals/NestingConditionals/obj/x86/Debug/NestingConditionals.exe.mdb

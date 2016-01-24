@@ -1,0 +1,5 @@
+/Users/duke/Projects/ReturnFunctions/ReturnFunctions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/ReturnFunctions/ReturnFunctions/bin/Debug/ReturnFunctions.exe.mdb
+/Users/duke/Projects/ReturnFunctions/ReturnFunctions/bin/Debug/ReturnFunctions.exe
+/Users/duke/Projects/ReturnFunctions/ReturnFunctions/obj/x86/Debug/ReturnFunctions.exe
+/Users/duke/Projects/ReturnFunctions/ReturnFunctions/obj/x86/Debug/ReturnFunctions.exe.mdb

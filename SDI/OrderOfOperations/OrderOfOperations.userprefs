@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="OrderOfOperations/OrderOfOperations.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrderOfOperations/Program.cs">
+    <Files>
+      <File FileName="OrderOfOperations/Program.cs" Line="36" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

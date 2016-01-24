@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Conditionals_Basic/Conditionals_Basic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals_Basic/Program.cs">
+    <Files>
+      <File FileName="Conditionals_Basic/Program.cs" Line="95" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

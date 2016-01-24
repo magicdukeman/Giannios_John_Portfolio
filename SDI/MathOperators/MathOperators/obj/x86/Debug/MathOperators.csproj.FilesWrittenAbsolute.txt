@@ -1,0 +1,5 @@
+/Users/duke/Projects/MathOperators/MathOperators/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/duke/Projects/MathOperators/MathOperators/bin/Debug/MathOperators.exe.mdb
+/Users/duke/Projects/MathOperators/MathOperators/bin/Debug/MathOperators.exe
+/Users/duke/Projects/MathOperators/MathOperators/obj/x86/Debug/MathOperators.exe
+/Users/duke/Projects/MathOperators/MathOperators/obj/x86/Debug/MathOperators.exe.mdb
