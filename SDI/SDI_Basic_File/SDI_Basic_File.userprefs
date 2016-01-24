@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SDI_Basic_File/SDI_Basic_File.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDI_Basic_File/Program.cs">
+    <Files>
+      <File FileName="SDI_Basic_File/Program.cs" Line="10" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
